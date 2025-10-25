@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3642"
    width="84"
    height="84"
    version="1"
    sodipodi:docname="decoration.svg"
-   inkscape:version="0.92.4 (unknown)">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata58">
     <rdf:RDF>
@@ -34,19 +34,38 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="725"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
      id="namedview56"
-     showgrid="false"
-     inkscape:zoom="6.7351723"
-     inkscape:cx="40.885701"
-     inkscape:cy="45.605763"
+     showgrid="true"
+     inkscape:zoom="7.3286689"
+     inkscape:cx="-7.4365482"
+     inkscape:cy="14.736646"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3642" />
+     inkscape:current-layer="svg3642"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1322" />
+  </sodipodi:namedview>
   <defs
      id="defs3644">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1375">
+      <stop
+         style="stop-color:#141622;stop-opacity:1;"
+         offset="0"
+         id="stop1371" />
+      <stop
+         style="stop-color:#2d324c;stop-opacity:1;"
+         offset="0.37757763"
+         id="stop1373" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4215-49">
       <stop
@@ -133,6 +152,25 @@
        gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1406.1698,1345.1655)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient4215-49" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1375"
+       id="linearGradient1377"
+       x1="10.000005"
+       y1="13.499935"
+       x2="17.000005"
+       y2="13.499935"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1375"
+       id="linearGradient1609"
+       gradientUnits="userSpaceOnUse"
+       x1="10.000005"
+       y1="13.499935"
+       x2="17.000005"
+       y2="13.499935"
+       gradientTransform="matrix(-1,0,0,1,84.000004,0)" />
   </defs>
   <rect
      style="opacity:1;fill:#141622;fill-opacity:1;stroke:none"
@@ -156,9 +194,14 @@
        d="m 17.000005,74.000025 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"
        inkscape:connector-curvature="0" />
     <path
+       style="opacity:0.8;fill:#262834;fill-opacity:1;stroke:none;stroke-width:0.374166"
+       id="bottom-band-3-6"
+       d="m 10,66.996949 h 7 v 2 h -7 z"
+       inkscape:connector-curvature="0" />
+    <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4447"
-       d="m 10,67 v 2 c 0,2.77 2.23,5 5,5 h 2 v -1 h -2 c -2.233297,0 -4,-1.766703 -4,-4 v -2 z"
+       d="m 10,66.996949 v 2 c 0,2.77 2.23,5 5,5 h 2 v -1 h -2 c -2.233297,0 -4,-1.766703 -4,-4 v -2 z"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -269,7 +312,8 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     id="decoration-bottomright">
+     id="decoration-bottomright"
+     inkscape:label="decoration-bottomright">
     <path
        id="shadow-bottomright"
        d="M 84,67 H 74 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 10 h 17 z"
@@ -280,6 +324,11 @@
        id="path103"
        class="ColorScheme-Background"
        d="m 66.999995,74.000025 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.8;fill:#262834;fill-opacity:1;stroke:none;stroke-width:0.374166"
+       id="bottom-band-3"
+       d="m 67,69 v -2 h 7 v 2 z"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -310,20 +359,21 @@
          style="fill:#3498db;fill-opacity:0" />
     </g>
     <path
-       style="color:#383c4a;opacity:1;fill:#141622;fill-opacity:1;stroke:none"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4433"
+       d="m 17,10 v 1 h 50 v -1 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#383c4a;opacity:1;fill:#2d324c;fill-opacity:1;stroke:none"
        id="path111"
        class="ColorScheme-Background"
        d="m 16.999975,9.999935 h 50.00002 v 7 h -50.00001 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.1"
-       id="top-highlight"
-       d="m 17,10 v 1 h 50 v -1 z"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path4433"
-       d="m 17,10 v 1 h 50 v -1 z"
+       style="color:#383c4a;fill:#141622;fill-opacity:1;stroke:none;stroke-width:0.92582"
+       id="path111-3"
+       class="ColorScheme-Background"
+       d="m 16.999985,11 h 50.00002 v 6 h -50.00001 z"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -334,15 +384,16 @@
        style="opacity:1;fill:url(#radialGradient4255);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#383c4a;opacity:1;fill:#141622;fill-opacity:1;stroke:none"
-       id="path119"
+       style="color:#383c4a;fill:url(#linearGradient1609);fill-opacity:1;stroke:none"
+       id="path63-2"
        class="ColorScheme-Background"
-       d="m 66.999995,9.999935 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
+       d="m 66.999999,9.999935 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path4445"
-       d="m 67,10 v 1 h 2 c 2.233297,0 4,1.766703 4,4 v 2 h 1 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
+       style="color:#383c4a;fill:#141622;fill-opacity:1;stroke:none;stroke-width:0.925815"
+       id="path63-5-9"
+       class="ColorScheme-Background"
+       d="m 66.999999,11 v 5.999935 H 74 V 15.285668 C 74,12.911408 71.769999,11 68.999999,11 Z"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -353,15 +404,16 @@
        style="opacity:1;fill:url(#radialGradient4275);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#383c4a;opacity:1;fill:#141622;fill-opacity:1;stroke:none"
+       style="color:#383c4a;opacity:1;fill:url(#linearGradient1377);fill-opacity:1;stroke:none"
        id="path63"
        class="ColorScheme-Background"
        d="m 17.000005,9.999935 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0c0e14;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4410"
-       d="m 15,10 c -2.77,0 -5,2.23 -5,5 v 2 h 1 v -2 c 0,-2.233297 1.766703,-4 4,-4 h 2 v -1 z"
+       style="color:#383c4a;fill:#141622;fill-opacity:1;stroke:none;stroke-width:0.925815"
+       id="path63-5"
+       class="ColorScheme-Background"
+       d="m 17.000005,11 v 5.999935 H 10.000004 V 15.285668 C 10.000004,12.911408 12.230005,11 15.000005,11 Z"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
